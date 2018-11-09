@@ -1,2 +1,1 @@
-# hhai-wksh
-Hyper-Heuristic A.I. Workshop
+# Hyper-Heuristic A.I. Workshop
