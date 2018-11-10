@@ -47,7 +47,7 @@ Note for Event 0 by [Contributors](#Contributors)
         - Does not assume the relationship is linear
     - Requires very few pieces of feature engineering
 
-## No free lunch theorem
+## No free lunch theorem - I DO WAN T FREE LUNCH
 
 - What is NFL theorem?
     - There’s no single machine learning algorithm to rule all problems
