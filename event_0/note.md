@@ -24,7 +24,7 @@ Note for Event 0 by [Contributors](#Contributors)
     1. scrap the data (unstructured data) from web pages by web scraping
     2. clean the data and store the data (structured data) in relational database
 
-## Variable type
+## Variable Type
 
 - continuous variable
     - A numeric number has an infinite number of possible values
@@ -47,7 +47,7 @@ Note for Event 0 by [Contributors](#Contributors)
         - Does not assume the relationship is linear
     - Requires very few pieces of feature engineering
 
-## No free lunch theorem
+## No Free Lunch Theorem
 
 - What is NFL theorem?
     - There’s no single machine learning algorithm to rule all problems
