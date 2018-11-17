@@ -1,5 +1,9 @@
 # Hyper-Heuristic A.I. Workshop
 
+- [Note for Event 0](event_0/note.md)
+
+- [Note for Event 1](event_1/note.ipynb)
+
 ## What is Hyper-Heuristic?
 
 It is not the hyper-heuristic algorithm in machine learning. We named this workshop “Hyper-Heuristic” because the main algorithm (random forests) we are going to learn, and use is “heuristic”.
