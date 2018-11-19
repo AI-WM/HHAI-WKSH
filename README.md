@@ -6,7 +6,7 @@
 
 ## What is Hyper-Heuristic?
 
-It is not the hyper-heuristic algorithm in machine learning. We named this workshop “Hyper-Heuristic” because the main algorithm (random forests) we are going to learn, and use is “heuristic”.
+It is not the hyper-heuristic algorithm in machine learning. We named this workshop “Hyper-Heuristic” because the main algorithm (random forests) we are going to learn and use is “heuristic”.
 
 ## Who are we?
 
@@ -14,9 +14,12 @@ A group of people who are highly interested in A.I.
 
 ## What are we going to do?
 
-Finished the course on fast.ai, understood how to interpret the meaning of every code, take notes and organized the notes together on GitHub.
+- Finished [the course](https://course.fast.ai/ml) on [fast.ai](https://www.fast.ai)
+- Understood how to interpret the meaning of every code
+- Take notes and organized the notes together on [GitHub](https://github.com/AI-WM/HHAI-WKSH).
 
 ## Why random forests?
+
 1. Hyper-Heuristic
     
     Although you can typically find a model that beats random forests for any given dataset, it’s never by much, and it usually takes much longer to build. 
@@ -53,9 +56,9 @@ Finished the course on fast.ai, understood how to interpret the meaning of every
 
 ## What is our schedule?
 
-Event 1: Nov 4 & Nov 10 (same)
+Event 1: Nov 4 & Nov 10
 
-Event 2: Nov 21
+Event 2: Nov 21 (virtual)
 
 Event 3: Dec 1
 
@@ -79,4 +82,4 @@ Event 5: Dec 21 (virtual)
     
     - It is a plus to know Slice, Iteration, List Comprehensions, and Generator
 
-3.	Finished [Lesson 1](https://course.fast.ai/lessonsml1/lesson1.html) individually before the event
+3.	Finished [Lesson 1](https://course.fast.ai/lessonsml1/lesson1.html) individually before first event
