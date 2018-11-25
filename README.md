@@ -14,9 +14,9 @@ A group of people who are highly interested in A.I.
 
 ## What are we going to do?
 
-- Finished [the course](https://course.fast.ai/ml) on [fast.ai](https://www.fast.ai)
-- Understood how to interpret the meaning of every code
-- Take notes and organized the notes together on [GitHub](https://github.com/AI-WM/HHAI-WKSH).
+- Finished [the course](https://course.fast.ai/ml) on [fast.ai](https://www.fast.ai) (Lesson 2 to Lesson 6)
+- Understood how to interpret the meaning of concepts and code
+- Take notes and organized the notes together on [GitHub](https://github.com/AI-WM/HHAI-WKSH)
 
 ## Why random forests?
 
@@ -72,14 +72,14 @@ Event 5: Dec 21 (virtual)
 
 2.	Python Programming Skills:
 
-    - Know how to define variable and python data types (include string)
-    
-    - Know how to use list, tuple, dict, and set
+    - Know how to define variable
     
     - Know if statement and loop
+    
+    - Know python data types (include string, list, tuple, dict, set)
     
     - Know how to call and define a function
     
     - It is a plus to know Slice, Iteration, List Comprehensions, and Generator
 
-3.	Finished [Lesson 1](https://course.fast.ai/lessonsml1/lesson1.html) individually before first event
+3.	Finished [Lesson 1](https://course.fast.ai/lessonsml1/lesson1.html) individually
